@@ -1,2 +1,2 @@
 # demo-rep
-Changes have been made
+Changes have been made and now pulled
